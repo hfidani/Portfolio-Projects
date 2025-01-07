@@ -1,9 +1,4 @@
-# PROJET COO 2024 - simulation Location Vlille
-
-
-## binôme : 
- - HOUSSAM-EDDINE FIDANI
- - El-Hadji-Saliou Niass
+# PROJET COO - simulation Location Vlille
 
 
 ### Description du Projet :
