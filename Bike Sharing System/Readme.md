@@ -1,4 +1,8 @@
-# PROJET COO - simulation Location Vlille
+# Houssam Fidani
+
+
+
+# PROJET Java - simulation Location Vlille
 
 
 ### Description du Projet :
@@ -20,9 +24,6 @@ Le projet Vlille est une implémentation en Java d'un système de partage de vé
 
 ### 
 ![Test](./test.png "coverage du test").
-### Récupération du code source :
-1. Placez-vous dans le répertoire où vous souhaitez cloner le projet 
-2. $ git clone https://gitlab-etu.fil.univ-lille.fr/houssameddine.fidani.etu/fidani-niass-coo.git
 
 
 ### Générez la documentation : 
